@@ -11,7 +11,7 @@ If you don't have any Text-To-Speech engine installed, try eSpeak for example
 ``` bash
 sudo apt install espeak
 ``` 
-voices in script with eSpeak (you can add your own):
+voices in script with eSpeak (you can add your own, just uncomment list of voices):
 - Čeština 
 - Slovenčina 
 - English 
