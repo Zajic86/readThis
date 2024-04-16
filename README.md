@@ -22,4 +22,6 @@ voices in script with eSpeak (you can add your own, just uncomment list of voice
 - Magyar 
 - Italiano
 
+more voices of eSpeak - https://github.com/espeak-ng/espeak-ng/blob/master/docs/languages.md
+
 also you can change parameters rate, pause, volume, pitch, modulation and emphasis in code
