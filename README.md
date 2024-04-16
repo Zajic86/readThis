@@ -1,5 +1,5 @@
 # readThis
-Python script for reading input text using TTS (Text-to-speech pyttsx3) library and eSpeak opensource voice synth.
+Python script for reading input text using pyttsx3 and gTTS
 ## Install & run
 ``` bash
 git clone https://github.com/Zajic86/readThis.git
